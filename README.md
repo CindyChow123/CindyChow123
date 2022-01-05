@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello World 👋
+### I am ✨ _Xinyi Zhou (Cindy)_ ✨
+- A Senior CSE Student @ [SUSTech](https://www.sustech.edu.cn/en/)
+- 🔥 Interested in Artificial Intelligence & Medical Engineering
+- 🔭 I’m currently working on:  
+      **Surgical Workflow Recognition**  
+      **Grad School Application**
+- 👯 I’m currently learning **JAZZ** !
+- 📫 [Check out my website!](https://cindychow123.github.io/)
+- 🔦 I am a contributor of: [JsonPath](https://github.com/json-path/JsonPath)
+### More
+[![CindyChow123's GitHub stats](https://github-readme-stats.vercel.app/api?username=CindyChow123&show_icons=true&title_color=C0CFF7&bg_color=30,000000,0A3189&text_color=ffffff&icon_color=D8E4FA)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**CindyChow123/CindyChow123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CindyChow123&layout=compact&title_color=C0CFF7&bg_color=30,000000,0A3189&text_color=ffffff&icon_color=D8E4FA&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
