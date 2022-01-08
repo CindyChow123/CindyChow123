@@ -8,6 +8,8 @@
 - 👯 I’m currently learning **JAZZ** !
 - 📫 [Check out my website!](https://cindychow123.github.io/)
 - 🔦 I am a contributor of: [JsonPath](https://github.com/json-path/JsonPath)
+### Recent
+2022.01.07: My paper (**A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY**) has been accepted by ISBI for presentation🎉 
 ### More
 [![CindyChow123's GitHub stats](https://github-readme-stats.vercel.app/api?username=CindyChow123&show_icons=true&title_color=45979D&bg_color=F7FBFA&text_color=000000&icon_color=E74C3C&border_color=FCF3CF)](https://github.com/anuraghazra/github-readme-stats)
 
