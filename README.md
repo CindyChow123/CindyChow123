@@ -3,7 +3,7 @@
 - A Senior CSE Student @ [SUSTech](https://www.sustech.edu.cn/en/)
 - 🔥 Interested in Artificial Intelligence & Medical Engineering
 - 🔭 I’m currently working on:    
-      **Grad School Application**
+      **Grad School Application**   
       **Single Image Defocus Deblurring**
 - 👯 I’m currently learning **JAZZ** !
 - 📫 [Check out my website!](https://cindychow123.github.io/)
