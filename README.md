@@ -1,6 +1,6 @@
 ## Hello World 👋
 ### I am ✨ _Xinyi Zhou (Cindy)_ ✨
-- A Senior CSE Student @ [SUSTech](https://www.sustech.edu.cn/en/)
+- A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/)
 - 🔥 Interested in Interpretable Artificial Intelligence & Human Computer Interaction & Mental Healthcare
 - 🔭 I’m currently working on:    
       **Hololens2 Development**   
