@@ -1,6 +1,6 @@
 ## Hello World 👋
 ### I am ✨ _Xinyi Zhou (Cindy)_ ✨
-- A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and an Upcoming MSCS Student to [USC](https://viterbischool.usc.edu/).
+- A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and an Incoming MSCS Student to [USC](https://viterbischool.usc.edu/).
 - 🔥 Interested in Interpretable Artificial Intelligence & Human Computer Interaction & Mental Healthcare
 - 🔭 I’m currently working on:    
       **Hololens2 Development with Unity**   
