@@ -1,12 +1,12 @@
 ## Hello World 👋
 ### I am ✨ _Xinyi Zhou (Cindy)_ ✨
-- A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/)
+- A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and an Upcoming MSCS Student to [USC](https://viterbischool.usc.edu/).
 - 🔥 Interested in Interpretable Artificial Intelligence & Human Computer Interaction & Mental Healthcare
 - 🔭 I’m currently working on:    
-      **Hololens2 Development**   
-- 👯 I’m currently learning **JAZZ** !
+      **Hololens2 Development with Unity**   
 - 📫 [Check out my website!](https://cindychow123.github.io/)
-- 🔦 I am a contributor of: [JsonPath](https://github.com/json-path/JsonPath)
+- 🔦 I am a contributor of: 
+      [JsonPath](https://github.com/json-path/JsonPath)
 ### Milestones
 2022.01.07: My first-author paper (**A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY**) has been accepted by ISBI for presentation🎉   
 ### More
