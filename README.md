@@ -3,7 +3,7 @@
 - A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and an Incoming MSCS Student to [USC](https://viterbischool.usc.edu/).
 - 🔥 Interested in Interpretable Human Computer Interaction & Mental Healthcare & Artificial Intelligence
 - 🔭 I’m currently working on:    
-      **Hololens2 Menu System Development with Unity**  🕶
+      **Hololens2 Menu System Development with Unity**
 - 📫 [Check out my website!](https://cindychow123.github.io/)
 - 🔦 I am a contributor of: 
       [JsonPath](https://github.com/json-path/JsonPath)
