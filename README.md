@@ -1,7 +1,7 @@
 ## Hello World 👋
 ### I am ✨ _Xinyi Zhou (Cindy)_ ✨
 - A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and a MSCS Student @ [USC](https://viterbischool.usc.edu/).
-- 🔥 Interested in Human Computer Interaction and Software Engineering
+- 🔥 Interested in Human Computer Interaction Interface Design, Software Engineering and Testing
 - 🔭 I’m currently working on:    
       **WebAssembly** testing for course project
 - 📫 [Check out my website!](https://cindychow123.github.io/)
