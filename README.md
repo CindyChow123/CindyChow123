@@ -1,9 +1,9 @@
 ## Hello World 👋
 ### I am ✨ _Xinyi Zhou (Cindy)_ ✨
 - A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and a MSCS Student @ [USC](https://viterbischool.usc.edu/).
-- 🔥 Interested in Interpretable Human Computer Interaction & Mental Healthcare & Artificial Intelligence
+- 🔥 Interested in Human Computer Interaction and Software Engineering
 - 🔭 I’m currently working on:    
-      **WebAssembly**
+      **WebAssembly** testing for course project
 - 📫 [Check out my website!](https://cindychow123.github.io/)
 - 🔦 I am a contributor of: 
       [JsonPath](https://github.com/json-path/JsonPath)
