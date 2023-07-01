@@ -11,5 +11,5 @@
 ### Milestones
 2022.01.07: My first-author paper (**A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY**) has been accepted by ISBI for presentation🎉   
 ### More
-![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CindyChow123&show_icons=true&theme=slateorange)
+![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CindyChow123&show_icons=true&theme=codeSTACKr)
 
