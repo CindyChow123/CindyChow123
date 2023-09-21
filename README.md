@@ -1,7 +1,7 @@
 ## Hello World 👋
-### I am ✨ _Xinyi Zhou (Cindy)_ ✨
+### I am ✨ _Xinyi Zhou (Cindy)_ ✨, committed to developing software that creates value for society
 - A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and a MSCS Student @ [USC](https://viterbischool.usc.edu/).
-- 🔥 Interested in Human Computer Interaction Interface, AI, Software Engineering and Testing
+- 🔥 Interested in Human Computer Interaction Interface (Application Design and Development) and AI
 - 📫 [Check out my website!](https://xyz-cindy.github.io/)
 - 🔦 I am a contributor of:  
       [JsonPath](https://github.com/json-path/JsonPath)   
