@@ -1,12 +1,14 @@
 ## Hello World 👋
 ### I am ✨ _Xinyi Zhou (Cindy)_ ✨, committed to developing software that creates value for society
-- A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and a MSCS Student @ [USC](https://viterbischool.usc.edu/).
+- A CSE Graduate Student @ [SUSTech](https://www.sustech.edu.cn/en/) and a graduated MSCS Student @ [USC](https://viterbischool.usc.edu/).
 - 🔥 Interested in Human Computer Interaction Interface (Application Design and Development) and AI
-- 📫 [Check out my website!](https://xyz-cindy.github.io/)
+- 📫 [Check out my website!](https://cindychow123.github.io/)
 - 🔦 I am a contributor of:  
       [JsonPath](https://github.com/json-path/JsonPath)   
       [FastChat (Vicuna)](https://github.com/lm-sys/FastChat)
 ### Milestones
+2025.10: My co-first-author paper (**Cognitive Biases in LLM-Assisted Software Development**) has been accepted by ICSE 2026!
+2024: Our paper (**Trust dynamics in AI-assisted development: Definitions, factors, and implications**) has been accepted by ICSE 2025!
 2022.01.07: My first-author paper (**A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY**) has been accepted by ISBI for presentation🎉   
 ### More
 ![Cindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CindyChow123&show_icons=true&theme=codeSTACKr)
